@@ -92,9 +92,7 @@ $ source /usr/local/share/bash-completion/completions/perlcritic
 
 ## Motivation
 
-I have a huge list of `perlcritic` library installations and I tend to keep the names long and descriptive, so it seemed like tab completion was an interesting alternative to the __flow breaking copy-pasting__ and error prone typing away.
-
-The programmatic capabilities of `bash` are truly powerful and useful and can be put to good use in use-cases like this.
+`perlcritic` is an important tool in my toolchain, so I wanted to have easy access to all the options available.
 
 ## See Also
 
@@ -104,7 +102,7 @@ From the [GNU Documentation](https://www.gnu.org/software/bash/manual/html_node/
 
 Good two-part article, "An Introduction to Bash Completion": [Part 1](https://debian-administration.org/article/316/An_introduction_to_bash_completion_part_1) and [Part 2](https://debian-administration.org/article/317/An_introduction_to_bash_completion_part_2).
 
-Please note that this experimental implementation has only been tested with `bash` version 3.
+Please note that this experimental implementation has only been tested with `bash` version 4.
 
 The most comprehensive collection of `bash` completions I have come across is [the one](https://github.com/scop/bash-completion) from the **Debian Linux distribution**. It is also the one offered for OSX via **Homebrew**.
 
